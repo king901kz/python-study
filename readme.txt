@@ -3,5 +3,7 @@ ignore .idea/
 succeed
 Creating a new branch is quick.
 dev
-git push test
 
+git push test
+pull succeed
+push agagin
