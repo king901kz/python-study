@@ -2,3 +2,4 @@
 ignore .idea/
 succeed
 Creating a new branch is quick.
+dev
