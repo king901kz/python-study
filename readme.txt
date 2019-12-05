@@ -1,1 +1,2 @@
 #python study
+ignore .idea/
