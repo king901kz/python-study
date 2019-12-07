@@ -1,2 +1,1 @@
-d:python_study  
-new
+python_study
