@@ -1,2 +1,1 @@
-d:python_study  
-changed
+d:python_study  changed 2
